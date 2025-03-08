@@ -47,7 +47,7 @@ devices = api.get_devices()
 # has one main devices that is assumed by default
 device = devices[0].id
 
-# --- (historica) energy (Wh) consumption and production ---
+# --- (historical) energy (Wh) consumption and production ---
 
 historical_energy = api.get_historical_data(devices[0].id)
 
