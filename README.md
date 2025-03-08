@@ -19,7 +19,7 @@ The library only depends on `requests` and Python >= 3.12. Because it has only
 two files, just clone the repository and copy the files as you like.
 
 ```bash
-$ git clone
+$ git clone git@github.com:lsg551/powerfox-api.git
 ```
 
 ## Usage
